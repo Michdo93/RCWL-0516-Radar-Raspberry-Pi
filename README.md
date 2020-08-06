@@ -1,7 +1,10 @@
 # RCWL-0516-Radar-Raspberry-Pi
 
 You can get furteher informations here: https://hackaday.io/project/19400-first-steps-with-the-rcwl-0516-radar-switch
-You also need [https://github.com/DzikuVx/piVirtualWire](piVirtualWire)
+
+Or in the [https://img.filipeflop.com/files/download/Datasheet_rcwl-0516.pdf](datasheet).
+
+You also need [https://github.com/DzikuVx/piVirtualWire](piVirtualWire).
 
 
 ## DESCRIPTION
@@ -23,8 +26,11 @@ I'll need to experiment with it some more.
 ## FILES
 
 * radar_rcwl-0516.py
+It's the developed Python program.
 * FS1000A.py
+piVirtualWire test File
 * MX-RM-5V.py
+piVirtuaelWire test File
 
 ## COMPONENTS
 
