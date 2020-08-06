@@ -3,10 +3,6 @@ import sys
 import getpass
 import time
 import pigpio
-
-env=os.path.expanduser(os.path.expandvars('/home/' + getpass.getuser() + '/robotcar/lib'))
-sys.path.insert(0, env)
-
 import piVirtualWire.piVirtualWire as piVirtualWire
 
 pi = pigpio.pi()

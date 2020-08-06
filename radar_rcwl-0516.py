@@ -6,10 +6,6 @@ import pigpio
 import RPi.GPIO as GPIO
 
 # #include <VirtualWire.h>
-
-env=os.path.expanduser(os.path.expandvars('/home/' + getpass.getuser() + '/robotcar/lib'))
-sys.path.insert(0, env)
-
 import piVirtualWire.piVirtualWire as piVirtualWire
 
 PIN_RADAR = 4 # #define PIN_RADAR 2
