@@ -25,18 +25,12 @@ I'll need to experiment with it some more.
 
 ## FILES
 
-* radar_rcwl-0516.py
-It's the developed Python program.
-* FS1000A.py
-piVirtualWire test File
-* MX-RM-5V.py
-piVirtuaelWire test File
+* radar_rcwl-0516.py - It's the developed Python program.
+* FS1000A.py - piVirtualWire test File
+* MX-RM-5V.py - piVirtuaelWire test File
 
 ## COMPONENTS
 
-* 1 × RCWL-0516 Microwave Radar Sensor Module
-Can be bought from numerous online vendors at a price of $1-$2.
-* 1 × Raspberry Pi
-Of your favourite flavour
-* 1 × XY-FST 433 MHz ASK transmitter
-If you want to run the attached sketch literally
+* 1 × RCWL-0516 Microwave Radar Sensor Module - Can be bought from numerous online vendors at a price of $1-$2.
+* 1 × Raspberry Pi - Of your favourite flavour.
+* 1 × XY-FST 433 MHz ASK transmitter - If you want to run the Python program.
