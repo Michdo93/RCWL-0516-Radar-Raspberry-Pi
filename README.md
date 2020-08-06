@@ -1,6 +1,8 @@
 # RCWL-0516-Radar-Raspberry-Pi
 
 You can get furteher informations here: https://hackaday.io/project/19400-first-steps-with-the-rcwl-0516-radar-switch
+You also need [https://github.com/DzikuVx/piVirtualWire](piVirtualWire)
+
 
 ## DESCRIPTION
 The RCWL-0516 module can be bought at numerous online retailers on eBay and Aliexpress, as well as others. It's intended for lamps and wall lights, where it can turn them on when motion is detected, and turn them off after a short timeout. Short-range (~~5m) radar modules such as this one are an alternative to PIR (passive infra-red) modules. Despite it being a very wide-spread and cheap module, documentation is scarce.
@@ -20,6 +22,9 @@ I'll need to experiment with it some more.
 
 ## FILES
 
+* radar_rcwl-0516.py
+* FS1000A.py
+* MX-RM-5V.py
 
 ## COMPONENTS
 
