@@ -2,7 +2,7 @@
 
 You can get furteher informations here: https://hackaday.io/project/19400-first-steps-with-the-rcwl-0516-radar-switch
 
-Or in the [https://img.filipeflop.com/files/download/Datasheet_rcwl-0516.pdf](datasheet).
+Or in the (https://img.filipeflop.com/files/download/Datasheet_rcwl-0516.pdf)[datasheet].
 
 You also need [https://github.com/DzikuVx/piVirtualWire](piVirtualWire).
 
