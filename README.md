@@ -4,7 +4,7 @@ You can get furteher informations here: https://hackaday.io/project/19400-first-
 
 Or in the [datasheet](https://img.filipeflop.com/files/download/Datasheet_rcwl-0516.pdf).
 
-You also need [https://github.com/DzikuVx/piVirtualWire](piVirtualWire).
+You also need (piVirtualWire)[https://github.com/DzikuVx/piVirtualWire].
 
 
 ## DESCRIPTION
